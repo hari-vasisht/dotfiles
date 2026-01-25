@@ -1,0 +1,33 @@
+############################################################
+# Ghostty configuration
+############################################################
+
+# Font 
+font-family = "JetBrains Mono Nerd" 
+font-size = 14
+
+# Ligatures (Lilex supports them nicely)
+font-feature = +liga, +calt
+
+# Theme
+theme = Catppuccin Frappe
+
+# Cursor 
+shell-integration-features = no-cursor
+cursor-style = underline
+cursor-color = yellow 
+
+
+# Terminal behavior 
+shell-integration = detect
+copy-on-select = true
+scrollback-limit = 100000
+
+
+# Mouse 
+mouse-hide-while-typing = true
+
+
+# Colors 
+background-opacity = 0.8
+
